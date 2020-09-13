@@ -21,7 +21,7 @@ print("\nqalaq " + place + " axla " + str(temp) + " gradusia")
 
 if temp < 10:
     print ("\nmagrad civa arayi gadakari =D")
-elif temp < 25:aa
+elif temp < 25:
     print ("\nacivda rame unda shemoicva")
 else:
     print("normaluri temperatur rogorc ginda ise chaicvi")
